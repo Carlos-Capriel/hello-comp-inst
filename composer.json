@@ -1,0 +1,16 @@
+{
+    "name": "ccg/hello-comp",
+    "description": "Hola mundo con composer",
+    "authors": [
+        {
+            "name": "Carlos Capriel",
+            "email": "ccapriel@auronix.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lic\\hello\\": "src/"
+        }
+    }
+}
